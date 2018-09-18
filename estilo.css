@@ -1,0 +1,21 @@
+body{
+    background-image:url(https://i.blogs.es/89aaa3/650_1000_bliss-original/1024_2000.jpg);
+    background-repeat: no-repeat;
+    background-size:  1480px;
+    background-position: 0px auto;
+
+
+}
+#centro{
+    width: 100px;
+    margin: 0px auto;  
+    
+}
+div{
+    background-color: lime;
+   
+}
+div:hover{ 
+    color:red;
+   
+}
